@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="./Doc_RH_mini_soc_lab.pdf"><img alt="Documentazione" src="https://img.shields.io/badge/Documentazione-PDF-0A66C2?style=for-the-badge"></a>
-	<a href="./PoC_Attack.mp4"><img alt="Proof of Concept" src="https://img.shields.io/badge/PoC-Video-C62828?style=for-the-badge"></a>
+	<a href="./Poc_Attack.mp4"><img alt="Proof of Concept" src="https://img.shields.io/badge/PoC-Video-C62828?style=for-the-badge"></a>
 </p>
 
 ---
@@ -60,9 +60,10 @@ Per l'analisi approfondita delle vulnerabilità, la topologia di rete, l'elenco 
 
 A corredo della documentazione, è disponibile la registrazione video completa dell'esecuzione dell'attacco (dall'infiltrazione iniziale fino all'ottenimento della shell tramite Command & Control):
 
-<p>
-	<strong><a href="./PoC_Attack.mp4">Guarda il Video PoC_Attack.mp4</a></strong>
-</p>
+
+
+https://github.com/user-attachments/assets/3ca7a852-a7fc-4a58-8d1b-a797118782d7
+
 
 ---
 
